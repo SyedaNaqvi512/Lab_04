@@ -3,3 +3,7 @@ int a = 5;
 int b = 10;
 int sum = a + b;
 Console.WriteLine("The sum of a and b is: " + sum );
+int a = 5;
+int b = 10;
+int subtraction = a - b;
+Console.WriteLine("The subtraction of a and b is: " + subtraction);
