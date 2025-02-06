@@ -7,3 +7,7 @@ int a = 5;
 int b = 10;
 int subtraction = a - b;
 Console.WriteLine("The subtraction of a and b is: " + subtraction);
+int a = 5;
+int b = 10;
+int mmultiplication = a * b;
+Console.WriteLine("The multiplication of a and b is: " + multiplication);
